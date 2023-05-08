@@ -1,0 +1,23 @@
+<resources>
+	<string name="app_name">الصفحة الرئيسية</string>
+	<string name="action_settings">Settings</string>
+
+	<string name="Username">ادخل اسم المستخدم</string>
+	<string name="password">ادخل كلمة المرور</string>
+	<string name="login">تسجيل</string>
+	<string name="clear">حذف</string>
+	<string name="close">اغلاق</string>
+	<string name="Second_Page">الصفحة الثانية</string>
+	<string name="Mobile">ادخل رقم الجوال</string>
+	<string name="Website">ادخل الموقع الالكتروني</string>
+
+	<string name="Call">اتصال</string>
+	<string name="Web">موقع</string>
+	<string name="Map">مكان</string>
+	<string name="Next">التالي</string>
+	<string name="Logout">تسجيل خروج</string>
+
+	<string name="Display_Page">صفحة العرض</string>
+	<string name="Come_Back">عد الينا مرة اخرى</string>
+
+</resources>
